@@ -8,6 +8,7 @@
 
 # Usage: 
 C#
+
 using TamelyUtilities;
 
 Utilities.Convert(String you are searching for, string you are replacing, pak you are replacing in, offset for the replace);
@@ -20,6 +21,7 @@ The pak needs to be the file path and the offset can be a researcher offset (i.e
 
 # Usage: 
 C#
+
 using TamelyUtilities;
 
 Utilities.Revert(String you are searching for, string you are replacing, pak you are replacing in, offset for the replace);
@@ -32,6 +34,7 @@ The pak needs to be the file path and the offset can be a researcher offset (i.e
 
 # Usage: 
 C#
+
 using TamelyUtilities;
 
 Utilities.GetPakPath();
@@ -42,6 +45,7 @@ Utilities.GetPakPath();
 
 # Usage: 
 C#
+
 using TamelyUtilities;
 
 Utilities.GetFemaleBody(); or Utilities.GetFemaleGender(); or Utilities.GetFemaleHead(); or Utilities.GetMaleBody(); or Utilities.GetMaleGender(); or Utilities.GetMaleHead(); or Utilities.GetBackbling(); or Utilities.GetPickaxe(); or Utilities.GetGlider();
